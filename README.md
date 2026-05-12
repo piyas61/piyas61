@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Md Sala Uddin</h1>
+<h1 align="center">Hi , I'm Md Sala Uddin</h1>
 
 <h3 align="center">
-💻 Computer Science Student | 🚀 Aspiring Software Developer | 🇧🇩 Bangladesh
+💻 Computer Science Student |  Aspiring Software Developer | 🇧🇩 Bangladesh
 </h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Science Student
 - 💻 Passionate about Software Development & Problem Solving
@@ -26,13 +26,13 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,js" />
+  <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
 ### ⚙️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 > Modern ERP system for managing shops, inventory, payroll, sales & purchases.
 
 ### ☕ Java Management System
-> Console/Desktop based Java management application.
+> Console/Desktop-based Java management application.
 
 ### 💻 C Programming Projects
 > Basic algorithm & logic-building projects using C.
@@ -114,7 +114,7 @@
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 </h3>
 
 <h2 align="center">
