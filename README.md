@@ -118,6 +118,6 @@
 </h3>
 
 <h2 align="center">
-Md Sala Uddin 🚀
+Md Sala Uddin 
 </h2>
 readme-typing-svg.herokuapp.com
