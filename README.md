@@ -120,4 +120,4 @@
 <h2 align="center">
 Md Sala Uddin 
 </h2>
-readme-typing-svg.herokuapp.com
+
