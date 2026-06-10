@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Md Sala Uddin</h1>
 
 <h3 align="center">
-💻 Computer Science Student |  Aspiring Software Developer | 🇧🇩 Bangladesh
+ Computer Science Student |  Aspiring Software Developer | 🇧🇩 Bangladesh
 </h3>
 
 <p align="center">
@@ -13,23 +13,23 @@
 
 ##  About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Software Development & Problem Solving
-- 🌱 Currently learning **Advanced Java, DSA, PostgreSQL & Linux**
-- 🔥 Exploring **Backend Development & ERP Systems**
-- ⚡ Love building real-world applications
+-  Computer Science Student
+-  Passionate about Software Development & Problem Solving
+-  Currently learning **Advanced Java, DSA, PostgreSQL & Linux**
+-  Exploring **Backend Development & ERP Systems**
+-  Love building real-world applications
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming Languages
+###  Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-### ⚙️ Technologies & Tools
+###  Technologies & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced Java Concepts
 - Data Structures & Algorithms
@@ -47,29 +47,29 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 
-- 🚀 Build scalable software projects
-- 🧠 Improve problem-solving skills
-- 🌍 Contribute to open-source
-- 💼 Become a professional software engineer
+-  Build scalable software projects
+-  Improve problem-solving skills
+-  Contribute to open-source
+-  Become a professional software engineer
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🛒 Multi Shop ERP System
+###  Multi Shop ERP System
 > Modern ERP system for managing shops, inventory, payroll, sales & purchases.
 
-### ☕ Java Management System
+###  Java Management System
 > Console/Desktop-based Java management application.
 
-### 💻 C Programming Projects
+###  C Programming Projects
 > Basic algorithm & logic-building projects using C.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170" />
@@ -79,7 +79,7 @@
 
 ---
 
-## 📈 Most Used Languages
+##  Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
@@ -87,7 +87,7 @@
 
 ---
 
-## 🎨 GitHub Artwork
+##  GitHub Artwork
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/piyas61/piyas61/master/gitartwork.svg" alt="gitartwork" />
@@ -95,7 +95,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
