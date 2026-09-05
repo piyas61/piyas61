@@ -26,7 +26,7 @@
 ###  Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c" />
+  <img src="https://skillicons.dev/icons?i=java,c,c++" />
 </p>
 
 ###  Technologies & Tools
